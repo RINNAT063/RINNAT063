@@ -1,6 +1,6 @@
 <h1 align="center" color="violet"> I'm Anh Ngoc </h1>
-- I'm a student of: <a href="https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_S%C6%B0_ph%E1%BA%A1m_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh" target="_blank"> Ho Chi Minh City University of Education </a> (HCMUE)
-<br>- I'm currently learning #✨Infomatics Teacher Education✨# <img  href="C:\Users\PC\OneDrive\Hình ảnh\hcmue.png" alt="HCMUE"/>
+- I'm a student of: <a target="_blank" href="https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_%C4%90%E1%BA%A1i_h%E1%BB%8Dc_S%C6%B0_ph%E1%BA%A1m_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh"> Ho Chi Minh City University of Education </a> (HCMUE)
+<br>- I'm currently learning #✨Infomatics Teacher Education✨# <img  href="https://ctsv.hcmue.edu.vn/logo.png" alt="HCMUE" width="30px" height="30px"/>
 <!--**RINNAT063/RINNAT063** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
